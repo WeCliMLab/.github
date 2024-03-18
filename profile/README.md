@@ -6,6 +6,9 @@
 ![image](https://github.com/WeCliMLab/.github/assets/66754219/2e1fc47c-60af-4a5c-b8cb-8f716f901648)
 
 --> 
+<p align="center">
+  <img src="logo.png" alt="Weclimb Logo" width="200"/>
+</p>
 
 
 # Weather and Climate Modelling Research Group
